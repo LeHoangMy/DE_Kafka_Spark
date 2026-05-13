@@ -1,5 +1,5 @@
 __pycache__/
 *.pyc
 .env
-configs/kafka-client.properties
-configs/kafka-config.py
+configs/kafka_client.properties
+configs/kafka_config.py
