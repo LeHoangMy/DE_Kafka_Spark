@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .env
 configs/kafka-client.properties
+configs/kafka-config.py
